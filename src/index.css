@@ -72,10 +72,13 @@ header p{
   padding: 30px;
   max-width: 100%;
   width: 740px;
+  margin: auto;
 }
 
 .meme{
   position: relative;
+  display: flex;
+  justify-content: center;
 }
 
 .meme--text {
